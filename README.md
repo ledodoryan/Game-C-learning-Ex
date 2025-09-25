@@ -6,7 +6,7 @@ Bienvenue sur mon projet **Game C# Learning Exercises**.
 Je m'appelle Ryan, étudiant en IT à la Haute École de la Ville de Liège (HEL).  
 Ce projet a pour objectif de m'entraîner et d'apprendre les principes fondamentaux du langage C# à travers la création d'un mini-jeu.
 
-![Capture du menu](img/MAIN.png)
+![Capture du MENU](img/MAIN.png)
 
 ### Objectif du projet
 
@@ -43,7 +43,7 @@ Welcome to my **Game C# Learning Exercises** project.
 My name is Ryan, an IT student at HEL (Haute École de la Ville de Liège).  
 This project aims to help me practice and learn the fundamental principles of C# by creating a mini-game.
 
-![Capture du menu](img/MAIN.png)
+![Capture of the MENU](img/MAIN.png)
 
 ### Project Goals
 
